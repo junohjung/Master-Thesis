@@ -147,36 +147,19 @@ you usually can deviate from the `noDomains` setting by a few numbers without
 causing errors).
 
 
-Help
-----
-
-For more information on how to use ZFS, please see
-http://aiawiki.aia.rwth-aachen.de (only reachable from within the RWTH Aachen
-University network or VPN).
-
-Developers can execute `make doc` after running `configure.py` to auto-generate
-the Doxygen documentation (please note that you need to have the `doxygen`
-command line tool on your `PATH` for this to work). Afterwards you will find
-the HTML documentation in the `doc/code/doxygen` subfolder. Even more insight
-can be gained from the inline comments in the source code itself, although your
-mileage might vary.
-
-For further help, please see the contact information below.
 
 
 Contact
 -------
 
-If you have questions, please get in contact with:
+If you have questions about zonal connection and zonal exchange procedure in ZFS, 
 
-Matthias Meinke  
-Mail: <m.meinke@aia.rwth-aachen.de>  
-Phone: +49 (241) 80 95328  
-Web: <http://www.aia.rwth-aachen.de>  
+please get in contact with:
 
-Chair of Fluid Mechanics and Institute of Aerodynamics  
-RWTH Aachen University  
-Wuellnerstrasse 5a  
-52062 Aachen  
-Germany  
-
+Junoh Jung, M.Sc. Aerospace Engineering  
+Mail: junoh.jung@rwth-aachen.de  
+Phone: +49 177 7428216  
+ 
+Pontstr.135 
+52062, Aachen
+Germany
