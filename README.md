@@ -1,5 +1,7 @@
-# Master-Thesis
+Master-Thesis
+=============
 Development of a fully coupled zonal RANS/LES method for the simulation of turbulent backward-facing step flow
+
 
 ZFS (Zonal Flow Solver)
 =======================
@@ -8,9 +10,8 @@ ZFS is a multi-physics PDE solver framework with a focus on fluid dynamics
 equations. It is developed at the Institute of Aerodynamics of the RWTH Aachen
 University.
 
------------------------------
 Zonal Flow Solver Tutorial for developers
------------------------------
+=========================================
 
 Quickstart
 ----------
