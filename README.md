@@ -162,12 +162,12 @@ Contact
 
 If you have questions about zonal RANS/LES connection and zonal exchange procedure, 
 
-please get in contact with:
+please get in contact with:   
 
 Junoh Jung, M.Sc. Aerospace Engineering     
 Mail: junoh.jung@rwth-aachen.de    
 Phone: +49 177 7428216    
 
-Pontstr.135
-52062 Aachen  
-Germany  
+Pontstr.135   
+52062 Aachen     
+Germany   
