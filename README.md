@@ -1,6 +1,6 @@
 Master-Thesis
 =============
-Development of a fully coupled zonal RANS/LES method for the simulation of turbulent backward-facing step flow
+Development of a fully coupled zonal RANS/LES method for the simulation of turbulent backward-facing step flow :
 http://publications.rwth-aachen.de/record/794112
 
 ZFS (Zonal Flow Solver)
